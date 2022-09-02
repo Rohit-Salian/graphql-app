@@ -19,7 +19,7 @@ import { Robotics } from "./pages/robotics/Robotics";
 const client = new ApolloClient({
   cache: new InMemoryCache(),
   link: new HttpLink({
-    uri: "https://graaphql-api.herokuapp.com/",
+    uri: "http://localhost:4000",
   }),
   credentials: "same-origin",
 });

@@ -1,7 +1,7 @@
 module.exports = {
   client: {
     service: {
-      url: "https://graaphql-api.herokuapp.com/",
+      url: "http://localhost:4000",
       skipSSLValidation: true,
     },
   },
