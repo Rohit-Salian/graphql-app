@@ -46,4 +46,4 @@ Set default settings i.e `npm run build`
 
 ### This Project uses Apollo GraphQL API
 
-Available here: [https://github.com/Rohit-Salian/graphql-api] (https://github.com/Rohit-Salian/graphql-api)
+Available here: [https://github.com/Rohit-Salian/graphql-api](https://github.com/Rohit-Salian/graphql-api)
