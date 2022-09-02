@@ -3,7 +3,7 @@ module.exports = function (app) {
   app.use(
     "/graphql",
     createProxyMiddleware({
-      target: "https://graaphql-api.herokuapp.com/",
+      target: "https://graaphql-api.herokuapp.com/graphql",
       changeOrigin: true,
     })
   );
