@@ -41,3 +41,9 @@ Files: `apollo.config.js`, `src/setupProxy.js`, `App.jsx`
 Connect Github account and select your Repo.<br />
 
 Set default settings i.e `npm run build`
+
+### Thats it for the Setup <br />
+
+### This Project uses Apollo GraphQL API
+
+Available here: [https://github.com/Rohit-Salian/graphql-api] (https://github.com/Rohit-Salian/graphql-api)
