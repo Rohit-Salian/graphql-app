@@ -19,6 +19,7 @@ import { Robotics } from "./pages/robotics/Robotics";
 const client = new ApolloClient({
   cache: new InMemoryCache(),
   link: new HttpLink({
+    //Replace "https://graaphql-api.herokuapp.com/graphql" with your Heroku link
     uri:
       "https://graaphql-api.herokuapp.com/graphql" ||
       "http://localhost:4000/grapql",
