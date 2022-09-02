@@ -3,7 +3,7 @@ module.exports = function (app) {
   app.use(
     "/graphql",
     createProxyMiddleware({
-      target: "http://localhost:4000",
+      target: "https://graaphql-api.herokuapp.com/",
       changeOrigin: true,
     })
   );
